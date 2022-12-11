@@ -1,5 +1,6 @@
 # advent-wreath
 An Advent Wreath Project written in Arduino for ESP32 and ESP8266
+Written by raydiy.de
 
 ## Features 
 - Wifi
